@@ -4,4 +4,5 @@ dataset
 models
 build
 dist
+bert
 *.egg-info
